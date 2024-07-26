@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sayantani Sinha! 👋
 
-<!--
-**ssk113/ssk113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about AI/ML and full-stack web development. 
 
-Here are some ideas to get you started:
+## Connect with Me:
+📧 Email: sayantanisinha2002@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/sayantani-sinha-46b347267/
+🐦 Twitter: @ssk__113
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+- Python
+- Flask
+- C++
+- C
+- Java
+- AWS
+- JavaScript
+- React
+...and more!
+
+
